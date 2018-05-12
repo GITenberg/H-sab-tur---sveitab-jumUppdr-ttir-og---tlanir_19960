@@ -1,0 +1,27 @@
+_repo: H-sab-tur---sveitab-jumUppdr-ttir-og---tlanir_19960
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 19960-h/img/cover.jpg
+creator:
+  author:
+    agent_name: Jón Sveinsson
+    aliases:
+    - Jon Sveinsson
+    - Sveinsson, Jón
+    gutenberg_agent_id: '8990'
+    url: http://www.gutenberg.org/2009/agents/8990
+description: ''
+gutenberg_issued: '2006-11-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19960'
+language: is
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Architecture, Domestic -- Designs and plans'
+- !lcc 'TH'
+title: 'Húsabætur á sveitabæjum: Uppdrættir og áætlanir'
+url: http://www.gutenberg.org/ebooks/19960
